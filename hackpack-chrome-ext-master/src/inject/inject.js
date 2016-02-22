@@ -2,6 +2,7 @@
  * This file contains javascript code that is executed
  * everytime a webpage loads over HTTP or HTTPS.
  * Ben edit
+ * Andrew Edit
  */
 
 /*
